@@ -4,4 +4,5 @@
 | 2     | Moodle Link | Moodle link for SPIT                                                                          | [Link](https://moodle.spit.ac.in/)                                                       | SPIT                |
 | 3     | DS ISE Marks | This link has ISE marks for DS.                                                              | [Link](https://docs.google.com/spreadsheets/d/1KnCZvvLvmyQGEDcCocqlibysVjTnpDpAmI4Q_NcVGls/edit?usp=drivesdk) | Harshil Kanakia     |
 | 4     | Non-tech Notes + Other Important Thingies | This will include non-tech notes and other important thingies as they are given by the faculty.                  | [Link](https://drive.google.com/drive/folders/1-ZfXMslqFFiVGJflfccNAOGHwnd_t02v?usp=drive_link) | Pranav Shinde       |
-|5      | SE ISE Marks | This link has ISE marks for SE | [Link] (https://docs.google.com/spreadsheets/d/1K1g7_UZUcUJypQDthygKqNXBLhLqju9A/edit?gid=1609116834#gid=1609116834) | Nikhita Mangaonkar |
+|5      | SE ISE Marks | This link has ISE marks for SE | [Link] 
+(https://docs.google.com/spreadsheets/d/1K1g7_UZUcUJypQDthygKqNXBLhLqju9A/edit?gid=1609116834#gid=1609116834) | Nikhita Mangaonkar |
